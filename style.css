@@ -238,7 +238,7 @@ span {
   transform: scaleY(1.2);
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 275px) {
   .section-wrapper {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, 1fr);
@@ -305,7 +305,7 @@ span {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1360px) {
   .head[aria-expanded="true"],
   .head[aria-expanded="false"] {
     visibility: visible;
